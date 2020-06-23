@@ -22,4 +22,4 @@
 
 ## Others
 
-很惭愧关于团子的语音素材不多，希望团子厨们多提 issue / pull request 来丰富素材。最后献上一首 [Hello Alone -Yui Ballade-](./preview/Hello+Alone+(Yui+Ballade).mp3) 给大家
+很惭愧关于团子的语音素材不多，希望团子厨们多提 issue / pull request 来丰富素材。最后献上一首 [Hello Alone -Yui Ballade-](./preview/Hello%20Alone%20(Yui%20Ballade).mp3) 给大家
