@@ -20,6 +20,10 @@
 
 在本地 vscode 启动的 rainbow-fart 配置页面中 Settings -> Voice Packages -> Import 中导入 zip，导入后 enable 开启使用.
 
+## voice
+
+相关语音对应的 [文本](./voice.md) 
+
 ## Others
 
 很惭愧关于团子的语音素材不多，希望团子厨们多提 issue / pull request 来丰富素材。最后献上一首 [Hello Alone -Yui Ballade-](./preview/Hello%20Alone%20(Yui%20Ballade).mp3) 给大家

@@ -51,7 +51,7 @@
             "keywords": [
                 "async",
                 "await",
-                "promise",
+                "Promise",
                 "then"
             ],
             "voices": [
