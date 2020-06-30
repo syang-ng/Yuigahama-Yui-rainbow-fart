@@ -3,9 +3,10 @@
     "display-name": "Yuigahama Yui 由比滨结衣 (Japanese)",
     "avatar": "Yui.png",
     "avatar-dark": "Yui-yukata.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "团子的温柔声音果然没有问题",
     "languages": [
+        "java",
         "javascript",
         "typescript"
     ],
@@ -16,7 +17,8 @@
         {
             "keywords": [
                 "function",
-                "=>"
+                "=>",
+                "->"
             ],
             "voices": [  
                 "function_01.mp3",
@@ -27,18 +29,56 @@
         },
         {
             "keywords": [
-                "if"
+                "class",
+                "extends",
+                "new",
+                "this",
+                "super"
             ],
             "voices": [  
-                "if_01.mp3",
-                "if_02.mp3",
-                "if_03.mp3"
+                "class_01.mp3",
+                "class_02.mp3",
+                "class_03.mp3",
+                "class_04.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "public",
+                "private",
+                "protected",
+                "abstract",
+                "static",
+                "default",
+                "final"
+            ],
+            "voices": [
+                "modifier_01.mp3",
+                "modifier_02.mp3",
+                "modifier_03.mp3",
+                "modifier_04.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "if",
+                "else",
+                "switch",
+                "case"
+            ],
+            "voices": [  
+                "condition_01.mp3",
+                "condition_02.mp3",
+                "condition_03.mp3",
+                "condition_04.mp3",
+                "condition_05.mp3"
             ]
         },
         {
             "keywords": [
                 "for",
                 "forEach",
+                "do",
                 "while"
             ],
             "voices": [
@@ -52,21 +92,29 @@
                 "async",
                 "await",
                 "Promise",
+                "synchronized",
                 "then"
             ],
             "voices": [
-                "promise_01.mp3",
-                "promise_02.mp3",
-                "promise_03.mp3"
+                "async_01.mp3",
+                "async_02.mp3",
+                "async_03.mp3",
+                "async_04.mp3"
             ]
         },
         {  
             "keywords": [
-                "catch"
+                "try",
+                "catch",
+                "throw",
+                "throws",
+                "assert"
             ],
             "voices": [    
-                "catch_01.mp3",
-                "catch_02.mp3"
+                "exception_01.mp3",
+                "exception_02.mp3",
+                "exception_03.mp3",
+                "exception_04.mp3"
             ]
         },
         {    
@@ -78,6 +126,19 @@
                 "import_02.mp3",
                 "import_03.mp3"
             ]
+        },
+        {
+            "keywords": [
+                "true",
+                "false",
+                "null",
+                "undefined"
+            ],
+            "voices": [
+                "constant_01.mp3",
+                "constant_02.mp3",
+                "constant_03.mp3"
+            ] 
         },
         {    
             "keywords": [

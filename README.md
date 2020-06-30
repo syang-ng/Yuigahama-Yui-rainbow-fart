@@ -24,6 +24,13 @@
 
 相关语音对应的 [文本](./voice.md) 
 
-## Others
+## ref
 
-很惭愧关于团子的语音素材不多，希望团子厨们多提 issue / pull request 来丰富素材。最后献上一首 [Hello Alone -Yui Ballade-](./preview/Hello%20Alone%20(Yui%20Ballade).mp3) 给大家
+- 春物闹钟
+- [我的青春恋爱物语果然有问题（广播剧）](https://music.163.com/#/playlist?id=2520417052&userid=1569932860)
+
+感谢 [@lzw-723](https://github.com/lzw-723) 提供的素材文件～
+
+## others
+
+希望团子厨们多提 issue / pull request 来丰富团子的语音素材。最后献上一首 [Hello Alone -Yui Ballade-](./preview/Hello%20Alone%20(Yui%20Ballade).mp3) 给大家（
